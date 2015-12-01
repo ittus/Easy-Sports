@@ -1,0 +1,5 @@
+[30-Nov-2015 17:41:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/jangkyxp/public_html/apps/hackathon/getdata.php on line 2
+[30-Nov-2015 17:42:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/jangkyxp/public_html/apps/hackathon/getdata.php on line 2
+[30-Nov-2015 17:42:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/jangkyxp/public_html/apps/hackathon/getdata.php on line 2
+[30-Nov-2015 17:48:36 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/jangkyxp/public_html/apps/hackathon/getdata.php on line 7
+[30-Nov-2015 17:54:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '"location"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/jangkyxp/public_html/apps/hackathon/getdata.php on line 19
