@@ -106,4 +106,71 @@
             android:id="@+id/btnLocation"/>
 
     </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="12dp"
+        android:orientation="horizontal">
+
+        <com.gec.easysports.font.RobotoTextView
+            style="@style/ButtonStyle.RaisedEmpty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/transparent_button_selector"
+            android:text="Topics: "
+            android:textColor="@color/main_color_grey_700"
+            app:typeface="robotoMedium" />
+
+        <com.gec.easysports.view.FloatLabeledEditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fletFloatingHint="Enter Location"
+            app:fletHintTextColor="@color/main_color_grey_300"
+            app:fletSingleLine="true"
+            android:id="@+id/etTopics"
+            app:fletTextBackground="@drawable/edit_text_background_accent"
+            app:fletTextColor="@color/main_color_grey_700">
+        </com.gec.easysports.view.FloatLabeledEditText>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="12dp"
+        android:orientation="horizontal">
+
+        <com.gec.easysports.font.RobotoTextView
+            style="@style/ButtonStyle.RaisedEmpty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/transparent_button_selector"
+            android:text="Number of players: "
+            android:textColor="@color/main_color_grey_700"
+            app:typeface="robotoMedium" />
+
+        <com.gec.easysports.view.FloatLabeledEditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fletFloatingHint="Enter Location"
+            app:fletHintTextColor="@color/main_color_grey_300"
+            app:fletSingleLine="true"
+            android:id="@+id/etPlayers"
+            app:fletTextBackground="@drawable/edit_text_background_accent"
+            app:fletTextColor="@color/main_color_grey_700">
+        </com.gec.easysports.view.FloatLabeledEditText>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:id="@+id/btnSubmit"/>
+    </LinearLayout>
 </LinearLayout>

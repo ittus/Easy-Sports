@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/layout-sw600dp-v13/mdtp_date_picker_dialog.xml",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/layout-sw600dp/mdtp_date_picker_dialog.xml"
+    },
+    {
         "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/layout-sw600dp-v13/mdtp_date_picker_dialog.xml",
         "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/layout-sw600dp/mdtp_date_picker_dialog.xml"
     }
