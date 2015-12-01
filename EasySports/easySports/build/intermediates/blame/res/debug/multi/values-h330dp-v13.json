@@ -1,5 +1,8 @@
 [
     {
+<<<<<<< HEAD
+        "outputFile": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\values-h330dp-v13\\values-h330dp-v13.xml",
+=======
         "outputFile": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/values-h330dp-v13/values-h330dp-v13.xml",
         "map": [
             {
@@ -25,6 +28,7 @@
     },
     {
         "outputFile": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/values-h330dp-v13/values-h330dp-v13.xml",
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781
         "map": [
             {
                 "to": {
@@ -35,7 +39,31 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/values-h330dp/values-h330dp.xml",
+                    "file": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.2\\res\\values-h330dp\\values-h330dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 69,
+                        "endOffset": 281
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\values-h330dp-v13\\values-h330dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.2\\res\\values-h330dp\\values-h330dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

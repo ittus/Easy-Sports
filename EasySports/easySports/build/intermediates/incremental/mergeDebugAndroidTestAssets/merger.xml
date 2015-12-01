@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<merger version="3"><dataSet config="main"><source path="D:\le\android\Easy-Sports\EasySports\easySports\src\androidTest\assets"/></dataSet></merger>
+=======
 <merger version="3"><dataSet config="main"><source path="/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/androidTest/assets"/></dataSet></merger>
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781

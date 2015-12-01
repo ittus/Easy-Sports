@@ -1,5 +1,9 @@
 [
     {
+<<<<<<< HEAD
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mdtp_material_button_background.xml",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.2\\res\\drawable-v21\\mdtp_material_button_background.xml"
+=======
         "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-v21/mdtp_material_button_selected.xml",
         "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/drawable-v21/mdtp_material_button_selected.xml"
     },
@@ -10,9 +14,18 @@
     {
         "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-v21/mdtp_material_button_selected.xml",
         "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/drawable-v21/mdtp_material_button_selected.xml"
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-v21/mdtp_material_button_background.xml",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/drawable-v21/mdtp_material_button_background.xml"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mdtp_material_button_selected.xml",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.2\\res\\drawable-v21\\mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mdtp_material_button_background.xml",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.2\\res\\drawable-v21\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\mdtp_material_button_selected.xml",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.2\\res\\drawable-v21\\mdtp_material_button_selected.xml"
     }
 ]

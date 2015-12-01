@@ -1,9 +1,29 @@
 [
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-land-nodpi-v4/login_background_dark.jpg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-land-nodpi/login_background_dark.jpg"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-land-nodpi-v4\\login_background_light.jpg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\drawable-land-nodpi\\login_background_light.jpg"
     },
     {
+<<<<<<< HEAD
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-land-nodpi-v4\\splash_screen_background.jpg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\drawable-land-nodpi\\splash_screen_background.jpg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-land-nodpi-v4\\login_background_dark.jpg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\drawable-land-nodpi\\login_background_dark.jpg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-land-nodpi-v4\\splash_screen_background.jpg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\drawable-land-nodpi\\splash_screen_background.jpg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-land-nodpi-v4\\login_background_dark.jpg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\drawable-land-nodpi\\login_background_dark.jpg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-land-nodpi-v4\\login_background_light.jpg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\drawable-land-nodpi\\login_background_light.jpg"
+=======
         "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-land-nodpi-v4/login_background_light.jpg",
         "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-land-nodpi/login_background_light.jpg"
     },
@@ -22,5 +42,6 @@
     {
         "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-land-nodpi-v4/splash_screen_background.jpg",
         "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-land-nodpi/splash_screen_background.jpg"
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781
     }
 ]
