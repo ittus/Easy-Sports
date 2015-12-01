@@ -1,7 +1,5 @@
 package com.gec.easysports.adapter;
 
-import java.util.List;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -12,15 +10,17 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.gec.easysports.R;
-import com.gec.easysports.model.DummyModel;
+import com.gec.easysports.model.DashboardModel;
 import com.gec.easysports.util.ImageUtil;
 
-public class GoogleCardsTravelAdapter extends ArrayAdapter<DummyModel>
+import java.util.List;
+
+public class GoogleCardsTravelAdapter extends ArrayAdapter<DashboardModel>
 		implements OnClickListener {
 
 	private LayoutInflater mInflater;
 
-	public GoogleCardsTravelAdapter(Context context, List<DummyModel> items) {
+	public GoogleCardsTravelAdapter(Context context, List<DashboardModel> items) {
 		super(context, 0, items);
 		mInflater = (LayoutInflater) context
 				.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
@@ -57,9 +57,10 @@ public class GoogleCardsTravelAdapter extends ArrayAdapter<DummyModel>
 			holder = (ViewHolder) convertView.getTag();
 		}
 
-		DummyModel item = getItem(position);
+		DashboardModel item = getItem(position);
 		ImageUtil.displayImage(holder.image, item.getImageURL(), null);
-		holder.title.setText(item.getText());
+		holder.title.setText(item.getmTitle());
+		holder.text.setText(item.getmDescription());
 		holder.explore.setTag(position);
 		holder.share.setTag(position);
 
