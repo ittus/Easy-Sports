@@ -2,9 +2,11 @@ package com.gec.easysports.fragment;
 
 import android.annotation.SuppressLint;
 import android.content.res.Resources;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
+import android.util.Log;
 import android.util.TypedValue;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -19,6 +21,8 @@ import android.widget.Toast;
 
 import com.gec.easysports.R;
 import com.gec.easysports.adapter.GoogleCardsTravelAdapter;
+import com.gec.easysports.constants.Constants;
+import com.gec.easysports.services.ServiceHandler;
 import com.gec.easysports.util.DummyContent;
 import com.nhaarman.listviewanimations.appearance.simple.SwingBottomInAnimationAdapter;
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.OnDismissCallback;
@@ -39,6 +43,7 @@ public class DashboardFragment extends Fragment implements OnItemClickListener {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setHasOptionsMenu(true);
+        new GetDashboard().execute();
 
     }
 
@@ -103,5 +108,23 @@ public class DashboardFragment extends Fragment implements OnItemClickListener {
                 break;
         }
         return super.onOptionsItemSelected(item);
+    }
+
+     class GetDashboard extends AsyncTask<Void, Void, Void> {
+
+
+        @Override
+        protected Void doInBackground(Void... voids) {
+            ServiceHandler sh = new ServiceHandler();
+            String jsonStr = sh.makeServiceCall(Constants.URL_GET_DATA, ServiceHandler.GET);
+
+            Log.d("GET_DASHBOARD_TASK", jsonStr);
+            return null;
+        }
+
+        @Override
+        protected void onPostExecute(Void aVoid) {
+            super.onPostExecute(aVoid);
+        }
     }
 }
