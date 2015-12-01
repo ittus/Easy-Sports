@@ -8,20 +8,66 @@
         "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\left_menu_travel_small.jpg"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\login_travel_register.jpg",
         "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\login_travel_register.jpg"
     },
     {
         "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\splash_screen_background.jpg",
         "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\splash_screen_background.jpg"
+=======
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/left_menu_travel_background.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/left_menu_travel_background.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/login_travel.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/login_travel.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/search_background_travel_small.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/search_background_travel_small.jpg"
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781
     },
     {
         "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\left_menu_social_small.jpg",
         "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\left_menu_social_small.jpg"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\search_background_travel_small.jpg",
         "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\search_background_travel_small.jpg"
+=======
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/login_travel_register.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/login_travel_register.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/login_background_light.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/login_background_light.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/search_background_social.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/search_background_social.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/ic_transparent.png",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/ic_transparent.png"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/splash_screen_background.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/splash_screen_background.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/left_menu_social_small.jpg",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-nodpi/left_menu_social_small.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/drag_and_drop_background_image.jpg",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-nodpi/drag_and_drop_background_image.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/login_travel_register.jpg",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-nodpi/login_travel_register.jpg"
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781
     },
     {
         "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\login_background_light.jpg",
@@ -32,14 +78,20 @@
         "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\search_background_travel_small.jpg"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\login_social.jpg",
         "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\login_social.jpg"
+=======
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/background_small.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/background_small.jpg"
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781
     },
     {
         "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\login_travel_register.jpg",
         "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\login_travel_register.jpg"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\sticky_list_headers_background_image.jpg",
         "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\sticky_list_headers_background_image.jpg"
     },
@@ -54,14 +106,63 @@
     {
         "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\parallax_social_small.jpg",
         "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\parallax_social_small.jpg"
+=======
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/left_menu_travel_background.jpg",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-nodpi/left_menu_travel_background.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/splash_screen_background.jpg",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-nodpi/splash_screen_background.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/default_image.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/default_image.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/card_background_white.9.png",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/card_background_white.9.png"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/parallax_social_small.jpg",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-nodpi/parallax_social_small.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/sticky_list_headers_background_image.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/sticky_list_headers_background_image.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/drag_and_drop_background_image.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/drag_and_drop_background_image.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/sticky_list_headers_background_image.jpg",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-nodpi/sticky_list_headers_background_image.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/login_background_light.jpg",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-nodpi/login_background_light.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/expandable_travel_background_image.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/expandable_travel_background_image.jpg"
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781
     },
     {
         "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\default_image.jpg",
         "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\default_image.jpg"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\login_background_dark.jpg",
         "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\login_background_dark.jpg"
+=======
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/login_social.jpg",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-nodpi/login_social.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/login_background_dark.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/login_background_dark.jpg"
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781
     },
     {
         "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\card_background_white.9.png",
@@ -72,6 +173,7 @@
         "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\left_menu_social_small.jpg"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\login_background_dark.jpg",
         "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\login_background_dark.jpg"
     },
@@ -166,5 +268,41 @@
     {
         "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\search_background_social.jpg",
         "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\drawable-nodpi\\search_background_social.jpg"
+=======
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/left_menu_travel_small.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/left_menu_travel_small.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/login_social.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/login_social.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/parallax_social_small.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/parallax_social_small.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/parallax_travel_small.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/parallax_travel_small.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/parallax_travel_small.jpg",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-nodpi/parallax_travel_small.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/background_small.jpg",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-nodpi/background_small.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/left_menu_social_small.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/left_menu_social_small.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/expandable_social_background_image.jpg",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/drawable-nodpi/expandable_social_background_image.jpg"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-nodpi-v4/search_background_travel_small.jpg",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable-nodpi/search_background_travel_small.jpg"
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781
     }
 ]

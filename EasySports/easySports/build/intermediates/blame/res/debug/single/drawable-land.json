@@ -4,6 +4,7 @@
         "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.2\\res\\drawable-land\\mdtp_done_background_color.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color.xml",
         "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.2\\res\\drawable-land\\mdtp_done_background_color.xml"
     },
@@ -14,5 +15,17 @@
     {
         "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color_dark.xml",
         "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.0.2\\res\\drawable-land\\mdtp_done_background_color_dark.xml"
+=======
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-land/mdtp_done_background_color_dark.xml",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/drawable-land/mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable-land/mdtp_done_background_color_dark.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/drawable-land/mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/drawable-land/mdtp_done_background_color.xml",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/drawable-land/mdtp_done_background_color.xml"
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781
     }
 ]

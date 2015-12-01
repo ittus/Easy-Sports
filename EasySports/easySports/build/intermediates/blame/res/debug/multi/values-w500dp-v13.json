@@ -1,6 +1,34 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\values-w500dp-v13\\values-w500dp-v13.xml",
+=======
+        "outputFile": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w500dp/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml",
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781
         "map": [
             {
                 "to": {

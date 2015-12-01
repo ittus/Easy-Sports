@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\menu\\main.xml"
     },
@@ -14,5 +15,21 @@
     {
         "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\menu\\menu_dashboard.xml",
         "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\menu\\menu_dashboard.xml"
+=======
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/menu/menu_dashboard.xml",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/menu/menu_dashboard.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/ittus/Dropbox/Android Application/EasySport/Github/EasySports/easySports/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/menu/menu_dashboard.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/menu/menu_dashboard.xml"
+>>>>>>> a0a2751c32eda25ab37797c158ad9a519354c781
     }
 ]
