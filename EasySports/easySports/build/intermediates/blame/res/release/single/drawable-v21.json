@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/release/drawable-v21/mdtp_material_button_background.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/drawable-v21/mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/release/drawable-v21/mdtp_material_button_selected.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/drawable-v21/mdtp_material_button_selected.xml"
+    }
+]

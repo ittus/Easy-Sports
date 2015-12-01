@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/mdtp_material_button_selected.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/drawable/mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/selector_background_empty.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/selector_background_empty.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/checkbox_selector_dark.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/checkbox_selector_dark.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/selector_text_empty.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/selector_text_empty.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/selector_text_full.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/selector_text_full.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/linear_progress_bar_drawable.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/linear_progress_bar_drawable.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/edit_text_cursor_drawable_main.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/edit_text_cursor_drawable_main.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/selector_background_navigation_social.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/selector_background_navigation_social.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/transparent_button_selector.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/transparent_button_selector.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/mdtp_done_background_color.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/drawable/mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/mdtp_done_background_color_dark.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/drawable/mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/cpb_background.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/cpb_background.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/social_bottom_background.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/social_bottom_background.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/checkbox_selector_light.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/checkbox_selector_light.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/cpb_idle_state_selector_empty.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/cpb_idle_state_selector_empty.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/google_cards_background_bottom.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/google_cards_background_bottom.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/selector_background_full.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/selector_background_full.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/cpb_idle_state_selector_full.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/cpb_idle_state_selector_full.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/parallax_travel_round_background.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/parallax_travel_round_background.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/register_travel_transparent_background.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/register_travel_transparent_background.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/login_travel_selector_button.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/login_travel_selector_button.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/cpb_idle_state_selector_full_complete.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/cpb_idle_state_selector_full_complete.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/search_bar_background_travel.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/search_bar_background_travel.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/mdtp_material_button_background.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/res/drawable/mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/edit_text_cursor_drawable_accent.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/edit_text_cursor_drawable_accent.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/google_cards_background_top.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/google_cards_background_top.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/login_travel_transparent_background.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/login_travel_transparent_background.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/social_top_background.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/social_top_background.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/cpb_idle_state_selector_full_error.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/cpb_idle_state_selector_full_error.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/travel_parallax_ratingbar_color.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/drawable/travel_parallax_ratingbar_color.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    }
+]

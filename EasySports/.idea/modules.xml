@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EasySports.iml" filepath="$PROJECT_DIR$/EasySports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easySports/easySports.iml" filepath="$PROJECT_DIR$/easySports/easySports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stickyListHeaders/stickyListHeaders.iml" filepath="$PROJECT_DIR$/stickyListHeaders/stickyListHeaders.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.gec.easysports"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="12dp"
+        android:orientation="horizontal">
+
+        <com.gec.easysports.font.RobotoTextView
+            android:id="@+id/tvEventName"
+            style="@style/ButtonStyle.RaisedEmpty"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/transparent_button_selector"
+            android:text="Name"
+            android:textColor="@color/main_color_grey_700"
+            app:typeface="robotoMedium" />
+
+        <com.gec.easysports.view.FloatLabeledEditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_weight="4"
+            app:fletFloatingHint="Enter Event Name"
+            app:fletHintTextColor="@color/main_color_grey_300"
+            app:fletSingleLine="true"
+            app:fletTextBackground="@drawable/edit_text_background_accent"
+            app:fletTextColor="@color/main_color_grey_700"></com.gec.easysports.view.FloatLabeledEditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="12dp"
+        android:orientation="horizontal">
+
+        <com.gec.easysports.font.RobotoTextView
+            android:id="@+id/tvDate"
+            style="@style/ButtonStyle.RaisedEmpty"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/transparent_button_selector"
+            android:minWidth="96dp"
+            android:text="Enter Date"
+            android:textColor="@color/main_color_grey_700"
+            app:typeface="robotoMedium" />
+
+        <com.gec.easysports.font.RobotoTextView
+            android:id="@+id/tvTime"
+            style="@style/ButtonStyle.RaisedEmpty"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/transparent_button_selector"
+            android:minWidth="96dp"
+            android:text="Enter Time"
+            android:textColor="@color/main_color_grey_700"
+            app:typeface="robotoMedium" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="22dp"
+        android:layout_marginTop="12dp"
+        android:orientation="horizontal">
+
+        <com.gec.easysports.font.RobotoTextView
+            android:id="@+id/tvLocation"
+            style="@style/ButtonStyle.RaisedEmpty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/transparent_button_selector"
+            android:text="Location: "
+            android:textColor="@color/main_color_grey_700"
+            app:typeface="robotoMedium" />
+
+        <com.gec.easysports.view.FloatLabeledEditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fletFloatingHint="Enter Location"
+            app:fletHintTextColor="@color/main_color_grey_300"
+            app:fletSingleLine="true"
+            android:id="@+id/etLocation"
+            app:fletTextBackground="@drawable/edit_text_background_accent"
+            app:fletTextColor="@color/main_color_grey_700">
+
+        </com.gec.easysports.view.FloatLabeledEditText>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Set Location"
+            android:id="@+id/btnLocation"/>
+
+    </LinearLayout>
+</LinearLayout>
