@@ -1,110 +1,218 @@
 [
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/cloud.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/cloud.svg"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_pentagon.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\imgview_pentagon.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/imgview_pentagon.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/imgview_pentagon.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\suitcase.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\suitcase.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/a.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/a.svg"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\like.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\like.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/like.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/like.svg"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\h.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\h.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/gtm_analytics",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/res/raw/gtm_analytics"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\g.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\g.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/g.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/g.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\a.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\a.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/star.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/star.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_diamond.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\imgview_diamond.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/e.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/e.svg"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\b.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\b.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/camera.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/camera.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\heart.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\heart.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/shit.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/shit.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\e.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\e.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/heart.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/heart.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\truck.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\truck.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/speach_cloud.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/speach_cloud.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\shit.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\shit.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/b.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/b.svg"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\speach_cloud.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\speach_cloud.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/house.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/house.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_hexagon.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\imgview_hexagon.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/suitcase.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/suitcase.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\d.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\d.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/imgview_diamond.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/imgview_diamond.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_heart.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\imgview_heart.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/imgview_hexagon.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/imgview_hexagon.svg"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\g.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\g.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/cup.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/cup.svg"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_heart.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\imgview_heart.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/truck.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/truck.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\like.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\like.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/h.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/h.svg"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\truck.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\truck.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/f.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/f.svg"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\cup.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\cup.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/d.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/d.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\c.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\c.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/pin.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/pin.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\7.0.0\\res\\raw\\gtm_analytics"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/imgview_heart.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/imgview_heart.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_pentagon.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\imgview_pentagon.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/imgview_star.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/imgview_star.svg"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_octogon.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\imgview_octogon.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/c.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/c.svg"
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\f.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\f.svg"
     },
     {
-        "merged": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/res/merged/debug/raw/imgview_octogon.svg",
-        "source": "/Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/res/raw/imgview_octogon.svg"
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\suitcase.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\suitcase.svg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_octogon.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\imgview_octogon.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\camera.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\camera.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\cloud.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\cloud.svg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\cup.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\cup.svg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\house.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\house.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_star.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\imgview_star.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\a.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\a.svg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\speach_cloud.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\speach_cloud.svg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\h.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\h.svg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\pin.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\pin.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_hexagon.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\imgview_hexagon.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\pin.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\pin.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\7.0.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\cloud.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\cloud.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\shit.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\shit.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\f.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\f.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\house.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\house.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_diamond.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\imgview_diamond.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\heart.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\heart.svg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\camera.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\camera.svg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\b.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\b.svg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\star.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\star.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\c.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\c.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\d.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\d.svg"
+    },
+    {
+        "merged": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_star.svg",
+        "source": "D:\\Users\\ittus\\Dropbox\\Fiverr\\Convert to Android Studio\\EasySports\\easySports\\src\\main\\res\\raw\\imgview_star.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\e.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\e.svg"
+    },
+    {
+        "merged": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\build\\intermediates\\res\\merged\\debug\\raw\\star.svg",
+        "source": "D:\\le\\android\\Easy-Sports\\EasySports\\easySports\\src\\main\\res\\raw\\star.svg"
     }
 ]

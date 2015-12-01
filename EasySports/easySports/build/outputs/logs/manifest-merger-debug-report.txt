@@ -1,341 +1,341 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:2:1-64:12
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:2:1-64:12
 	xmlns:android
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:2:11-69
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:2:11-69
 	package
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:3:5-33
-		INJECTED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml
-		INJECTED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml
+		INJECTED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml
-		INJECTED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml
+		INJECTED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml
-		INJECTED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml
+		INJECTED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [EasySports:stickyListHeaders:unspecified] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/EasySports/stickyListHeaders/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.wdullaer:materialdatetimepicker:2.0.2] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-ads:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-appstate:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-cast:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-fitness:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-games:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-gcm:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-nearby:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-panorama:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-plus:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-wallet:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-wearable:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [EasySports:stickyListHeaders:unspecified] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\EasySports\stickyListHeaders\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:21.0.3] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.wdullaer:materialdatetimepicker:2.0.2] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.0.2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-games:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml
-		INJECTED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml
+		INJECTED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:8:9-34
-		INJECTED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml
-		INJECTED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml
+		INJECTED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:11:5-79
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:11:22-76
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:11:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:12:5-67
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:12:22-64
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:12:22-64
 application
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:14:5-62:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:21.0.3] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/AndroidManifest.xml:28:5-20
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.wdullaer:materialdatetimepicker:2.0.2] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/AndroidManifest.xml:28:5-20
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-ads:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-analytics:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appstate:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-cast:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-fitness:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-games:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-drive:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-gcm:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-location:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-nearby:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-panorama:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-plus:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-wallet:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-identity:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-wearable:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.1.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:14:5-62:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:21.0.3] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.7.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.7.0\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:2.0.2] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.0.2\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:17:9-41
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:17:9-41
 	android:allowBackup
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:15:9-35
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:15:9-35
 	android:icon
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:16:9-43
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:16:9-43
 	android:theme
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:18:9-40
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:18:9-40
 activity#com.gec.easysports.MainActivity
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:19:9-22:68
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:19:9-22:68
 	android:label
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:21:13-45
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:21:13-45
 	android:theme
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:22:13-56
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:20:13-41
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:20:13-41
 activity#com.gec.easysports.ParallaxKenBurnsActivity
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:23:9-25:55
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:23:9-25:55
 	android:theme
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:25:13-52
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:25:13-52
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:24:13-53
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:24:13-53
 activity#com.gec.easysports.ParallaxActivity
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:26:9-54
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:26:9-54
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:26:19-51
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:26:19-51
 activity#com.gec.easysports.ParallaxTravelActivity
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:27:9-60
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:27:9-60
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:27:19-57
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:27:19-57
 activity#com.gec.easysports.ParallaxSocialActivity
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:28:9-60
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:28:9-60
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:28:19-57
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:28:19-57
 activity#com.gec.easysports.ImageGalleryCategoryActivity
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:29:9-31:56
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:29:9-31:56
 	android:theme
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:31:13-53
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:31:13-53
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:30:13-57
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:30:13-57
 activity#com.gec.easysports.ImageGallerySubcategoryActivity
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:32:9-34:56
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:32:9-34:56
 	android:theme
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:34:13-53
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:34:13-53
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:33:13-60
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:33:13-60
 activity#com.gec.easysports.LogInPageActivity
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:35:9-43:20
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:35:9-43:20
 	android:screenOrientation
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:37:13-49
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:37:13-49
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:36:13-46
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:36:13-46
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:38:13-42:29
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:39:17-69
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:39:25-66
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:41:17-77
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:41:27-74
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:41:27-74
 activity#com.gec.easysports.RegisterPageActivity
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:44:9-46:52
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:44:9-46:52
 	android:screenOrientation
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:46:13-49
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:46:13-49
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:45:13-49
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:45:13-49
 activity#com.gec.easysports.SplashScreensActivity
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:47:9-59
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:47:9-59
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:47:19-56
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:47:19-56
 activity#com.gec.easysports.ListViewsActivity
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:48:9-55
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:48:9-55
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:48:19-52
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:48:19-52
 activity#com.facebook.FacebookActivity
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:50:9-54:75
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:50:9-54:75
 	android:label
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:53:13-45
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:53:13-45
 	android:configChanges
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:52:13-96
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:52:13-96
 	android:theme
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:54:13-72
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:54:13-72
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:51:13-57
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:51:13-57
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:56:9-58:55
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:56:9-58:55
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:57:13-58
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:57:13-58
 	android:value
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:58:13-52
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:58:13-52
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:59:9-61:54
+ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:59:9-61:54
 	android:name
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:60:13-58
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:60:13-58
 	android:value
-		ADDED from /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/src/main/AndroidManifest.xml:61:13-51
+		ADDED from D:\le\android\Easy-Sports\EasySports\easySports\src\main\AndroidManifest.xml:61:13-51
 uses-permission#android.permission.VIBRATE
-ADDED from [com.wdullaer:materialdatetimepicker:2.0.2] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/AndroidManifest.xml:26:5-66
+ADDED from [com.wdullaer:materialdatetimepicker:2.0.2] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.0.2\AndroidManifest.xml:26:5-66
 	android:name
-		ADDED from [com.wdullaer:materialdatetimepicker:2.0.2] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/2.0.2/AndroidManifest.xml:26:22-63
+		ADDED from [com.wdullaer:materialdatetimepicker:2.0.2] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\2.0.2\AndroidManifest.xml:26:22-63
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:21:9-23:69
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:22:13-58
 	android:value
-		ADDED from [com.google.android.gms:play-services-base:7.0.0] /Users/ittus/Dropbox/Fiverr/Convert to Android Studio/EasySports/easySports/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-base:7.0.0] D:\le\android\Easy-Sports\EasySports\easySports\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\AndroidManifest.xml:23:13-66
