@@ -1,6 +1,11 @@
 package com.gec.easysports.adapter;
 
+
 import android.content.Context;
+import android.content.Intent;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentActivity;
+import android.support.v4.app.FragmentManager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -10,6 +15,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.gec.easysports.R;
+import com.gec.easysports.fragment.DetailTopicFragment;
 import com.gec.easysports.model.DashboardModel;
 import com.gec.easysports.util.ImageUtil;
 
@@ -19,12 +25,18 @@ public class GoogleCardsTravelAdapter extends ArrayAdapter<DashboardModel>
 		implements OnClickListener {
 
 	private LayoutInflater mInflater;
-
-	public GoogleCardsTravelAdapter(Context context, List<DashboardModel> items) {
+	Context context;
+	FragmentManager fmManager;
+	private DashboardModel item;
+	public GoogleCardsTravelAdapter(FragmentActivity context, List<DashboardModel> items,FragmentManager fmManager) {
 		super(context, 0, items);
+		this.context = context;
+		this.fmManager = fmManager;
 		mInflater = (LayoutInflater) context
 				.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 	}
+
+
 
 	@Override
 	public long getItemId(int position) {
@@ -57,11 +69,12 @@ public class GoogleCardsTravelAdapter extends ArrayAdapter<DashboardModel>
 			holder = (ViewHolder) convertView.getTag();
 		}
 
-		DashboardModel item = getItem(position);
-		ImageUtil.displayImage(holder.image, item.getImageURL(), null);
-		holder.title.setText(item.getmTitle());
+		item = getItem(position);
+		ImageUtil.displayImage(holder.image, item.getmImageURL(), null);
+		holder.title.setText(item.getName());
 		holder.text.setText(item.getmDescription());
 		holder.explore.setTag(position);
+		holder.categoryName.setText(item.getCategory());
 		holder.share.setTag(position);
 
 		return convertView;
@@ -82,10 +95,18 @@ public class GoogleCardsTravelAdapter extends ArrayAdapter<DashboardModel>
 		int possition = (Integer) v.getTag();
 		switch (v.getId()) {
 		case R.id.list_item_google_cards_travel_explore:
-			// click on explore button
+			Fragment fragment = new DetailTopicFragment(item, context);
+			fmManager.beginTransaction()
+					.replace(R.id.content_frame, fragment).commit();
+
 			break;
 		case R.id.list_item_google_cards_travel_share:
-			// click on share button
+			Intent sharingIntent = new Intent(android.content.Intent.ACTION_SEND);
+			sharingIntent.setType("text/plain");
+			String shareBody = "Please join activity " + item.getCategory() + " with us at " + item.getAddress();
+			sharingIntent.putExtra(android.content.Intent.EXTRA_SUBJECT, "Invitation");
+			sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, shareBody);
+			context.startActivity(Intent.createChooser(sharingIntent, "Share via"));
 			break;
 		}
 	}

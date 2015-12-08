@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res/com.gec.easysports"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/login_travel"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    android:padding="60dp" >
+    android:padding="60dp">
 
     <com.gec.easysports.font.FontelloTextView
         android:id="@+id/logo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:paddingBottom="36dp"
-        android:text="@string/fontello_logo"
         android:textColor="@color/material_cyan_A700"
         android:textSize="96dp"
         tools:ignore="SpUsage" />
@@ -27,12 +26,12 @@
         android:paddingBottom="16dp"
         android:paddingLeft="12dp"
         android:paddingRight="12dp"
-        android:paddingTop="16dp" >
+        android:paddingTop="16dp">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:gravity="center_vertical" >
+            android:gravity="center_vertical">
 
             <com.gec.easysports.font.FontelloTextView
                 android:layout_width="wrap_content"
@@ -44,6 +43,7 @@
                 tools:ignore="SpUsage" />
 
             <com.gec.easysports.view.FloatLabeledEditText
+                android:id="@+id/fletUserName"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
@@ -52,15 +52,14 @@
                 app:fletHintTextColor="@color/material_cyan_A700"
                 app:fletSingleLine="true"
                 app:fletTextBackground="@drawable/edit_text_background_accent"
-                app:fletTextColor="@color/main_color_grey_700" >
-            </com.gec.easysports.view.FloatLabeledEditText>
+                app:fletTextColor="@color/main_color_grey_700"></com.gec.easysports.view.FloatLabeledEditText>
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="6dp"
-            android:gravity="center_vertical" >
+            android:gravity="center_vertical">
 
             <com.gec.easysports.font.FontelloTextView
                 android:layout_width="wrap_content"
@@ -72,6 +71,7 @@
                 tools:ignore="SpUsage" />
 
             <com.gec.easysports.view.FloatLabeledEditText
+                android:id="@+id/fletPassword"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
@@ -81,17 +81,16 @@
                 app:fletPassword="true"
                 app:fletSingleLine="true"
                 app:fletTextBackground="@drawable/edit_text_background_accent"
-                app:fletTextColor="@color/main_color_grey_700" >
-            </com.gec.easysports.view.FloatLabeledEditText>
+                app:fletTextColor="@color/main_color_grey_700"></com.gec.easysports.view.FloatLabeledEditText>
         </LinearLayout>
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="54dp"
+        android:layout_marginBottom="12dp"
         android:layout_marginTop="12dp"
-        android:gravity="right" >
+        android:gravity="right">
 
         <com.gec.easysports.font.RobotoTextView
             android:id="@+id/login"
@@ -122,20 +121,13 @@
             app:typeface="robotoMedium" />
     </LinearLayout>
 
-    <com.gec.easysports.font.RobotoTextView
-        android:id="@+id/skip"
-        style="@style/ButtonStyle.RaisedEmpty"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="right|end"
-        android:background="@drawable/transparent_button_selector"
-        android:minWidth="96dp"
-        android:text="@string/skip"
-        android:textColor="@android:color/white" />
-    <com.facebook.login.widget.LoginButton
+    <ImageButton
         android:id="@+id/login_button_facebook"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        />
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:background="@null"
+        android:src="@drawable/fb_login" />
 </LinearLayout>

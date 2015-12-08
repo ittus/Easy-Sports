@@ -1,5 +1,6 @@
 package com.gec.easysports;
 
+import android.app.ProgressDialog;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.os.Handler;
@@ -11,6 +12,7 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -21,13 +23,16 @@ import android.widget.Toast;
 
 import com.gec.easysports.adapter.DrawerAdapter;
 import com.gec.easysports.fragment.DashboardFragment;
+import com.gec.easysports.fragment.MySettingFragment;
 import com.gec.easysports.fragment.ScheduledFragment;
-import com.gec.easysports.fragment.TextViewsFragment;
 import com.gec.easysports.fragment.TopicsFragment;
 import com.gec.easysports.model.DrawerItem;
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.OnDismissCallback;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
+import com.parse.LogOutCallback;
+import com.parse.ParseException;
+import com.parse.ParseUser;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -46,7 +51,7 @@ public class MainActivity extends ActionBarActivity implements
 	private Handler mHandler;
 
 	private boolean mShouldFinish = false;
-
+	private ProgressDialog pDialog;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -95,16 +100,23 @@ public class MainActivity extends ActionBarActivity implements
 
 	@Override
 	public void onBackPressed() {
-		if (!mShouldFinish && !mDrawerLayout.isDrawerOpen(mDrawerList)) {
-			Toast.makeText(getApplicationContext(), R.string.confirm_exit,
-					Toast.LENGTH_SHORT).show();
-			mShouldFinish = true;
-			mDrawerLayout.openDrawer(mDrawerList);
-		} else if (!mShouldFinish && mDrawerLayout.isDrawerOpen(mDrawerList)) {
-			mDrawerLayout.closeDrawer(mDrawerList);
+		FragmentManager fm = getSupportFragmentManager();
+		if (fm.getBackStackEntryCount() > 0) {
+			Log.i("MainActivity", "popping backstack");
+			fm.popBackStack();
 		} else {
-			super.onBackPressed();
+			if (!mShouldFinish && !mDrawerLayout.isDrawerOpen(mDrawerList)) {
+				Toast.makeText(getApplicationContext(), R.string.confirm_exit,
+						Toast.LENGTH_SHORT).show();
+				mShouldFinish = true;
+				mDrawerLayout.openDrawer(mDrawerList);
+			} else if (!mShouldFinish && mDrawerLayout.isDrawerOpen(mDrawerList)) {
+				mDrawerLayout.closeDrawer(mDrawerList);
+			} else {
+				super.onBackPressed();
+			}
 		}
+
 	}
 
 	private void prepareNavigationDrawerItems() {
@@ -124,6 +136,10 @@ public class MainActivity extends ActionBarActivity implements
 		mDrawerItems.add(new DrawerItem(R.string.drawer_icon_list_views,
 				R.string.drawer_title_profile,
 				DrawerItem.DRAWER_ITEM_TAG_PROFILE));
+
+		mDrawerItems.add(new DrawerItem(R.string.drawer_icon_login_page,
+				R.string.drawer_title_logout,
+				DrawerItem.DRAWER_ITEM_TAG_LOGOUT));
 	}
 
 	@Override
@@ -168,12 +184,31 @@ public class MainActivity extends ActionBarActivity implements
 		if (drawerTag == DrawerItem.DRAWER_ITEM_TAG_DASHBOARD) {
 			fragment = DashboardFragment.newInstance();
 		} else if (drawerTag == DrawerItem.DRAWER_ITEM_TAG_SCHEDULED) {
-			fragment = ScheduledFragment.newInstance();
+			fragment = new ScheduledFragment();
 		} else if (drawerTag == DrawerItem.DRAWER_ITEM_TAG_TOPICS) {
 			fragment = TopicsFragment.newInstance();
 		} else if (drawerTag == DrawerItem.DRAWER_ITEM_TAG_PROFILE) {
-			fragment = TextViewsFragment.newInstance();
-		} else {
+			fragment = new MySettingFragment();
+		} else if (drawerTag == DrawerItem.DRAWER_ITEM_TAG_LOGOUT){
+			fragment = new Fragment();
+			pDialog = new ProgressDialog(MainActivity.this);
+			pDialog.setMessage("Please wait...");
+			pDialog.setCancelable(false);
+			pDialog.show();
+			ParseUser.logOutInBackground(new LogOutCallback() {
+				@Override
+				public void done(ParseException e) {
+					if (pDialog != null && pDialog.isShowing())
+						pDialog.dismiss();
+					if(e != null){
+						Toast.makeText(MainActivity.this,e.getMessage(), Toast.LENGTH_LONG).show();
+					}else{
+						finish();
+						Toast.makeText(MainActivity.this,"Logout successfully", Toast.LENGTH_LONG).show();
+					}
+				}
+			});
+		}else{
 			fragment = new Fragment();
 		}
 		mShouldFinish = false;
@@ -197,9 +232,6 @@ public class MainActivity extends ActionBarActivity implements
 	}
 
 	public void commitFragment(Fragment fragment) {
-		// Using Handler class to avoid lagging while
-		// committing fragment in same time as closing
-		// navigation drawer
 		mHandler.post(new CommitFragmentRunnable(fragment));
 	}
 
@@ -231,4 +263,5 @@ public class MainActivity extends ActionBarActivity implements
 		// TODO Auto-generated method stub
 
 	}
+
 }

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stadium_array_1">
+        <item>Bedok Stadium</item>
+        <item>Bishan Stadium</item>
+        <item>Bukit Gombak Stadium</item>
+        <item>Choa Chu Kang Stadium</item>
+        <item>Clementi Stadium</item>
+        <item>Hougang Stadium</item>
+    </string-array>
+    <string-array name="stadium_array_2">
+        <item>Jalan Besar Stadium</item>
+        <item>Jurong Stadium</item>
+        <item>Jurong East Stadium</item>
+        <item>Marina Bay Floating Platform</item>
+        <item>Jurong West Stadium</item>
+        <item>National Stadium</item>
+    </string-array>
+    <string-array name="stadium_array_3">
+        <item>Queenstown Stadium</item>
+        <item>School of Physical Education Stadium</item>
+        <item>Serangoon Stadium</item>
+        <item>Singapore Indoor Stadium</item>
+        <item>Tampines Stadium</item>
+        <item>Toa Payoh Stadium</item>
+    </string-array>
+    <string-array name="stadium_array_4">
+        <item>Woodlands Stadium</item>
+        <item>Yio Chu Kang Stadium</item>
+        <item>Serangoon Stadium</item>
+        <item>SYishun Stadium</item>
+        <item>Tampines Stadium</item>
+        <item>Toa Payoh Stadium</item>
+    </string-array>
+</resources>

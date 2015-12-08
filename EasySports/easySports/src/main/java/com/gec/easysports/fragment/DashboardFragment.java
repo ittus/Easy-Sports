@@ -25,6 +25,7 @@ import com.gec.easysports.adapter.GoogleCardsTravelAdapter;
 import com.gec.easysports.constants.Constants;
 import com.gec.easysports.model.DashboardModel;
 import com.gec.easysports.services.ServiceHandler;
+import com.gec.easysports.util.NetworkUtils;
 import com.nhaarman.listviewanimations.appearance.simple.SwingBottomInAnimationAdapter;
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.OnDismissCallback;
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.SwipeDismissAdapter;
@@ -40,10 +41,7 @@ public class DashboardFragment extends Fragment implements OnItemClickListener {
 
     private static final int INITIAL_DELAY_MILLIS = 300;
 
-    private static final String TAG_NAME = "name";
-    private static final String TAG_GAME = "game";
-    private static final String TAG_DESCRIPTION = "description";
-    private static final String TAG_LOCATION = "location";
+
 
     private GoogleCardsTravelAdapter mGoogleCardsAdapter;
     private ListView listView;
@@ -57,8 +55,16 @@ public class DashboardFragment extends Fragment implements OnItemClickListener {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setHasOptionsMenu(true);
-        new GetDashboard().execute();
+    }
 
+    @Override
+    public void onResume() {
+        super.onResume();
+        if(NetworkUtils.isNetworkConnectionAvailable(getActivity().getApplicationContext())) {
+            new GetDashboard().execute();
+        }else{
+            Toast.makeText(getActivity(), "Network connection error!!!!", Toast.LENGTH_LONG).show();
+        }
     }
 
     @SuppressLint("NewApi")
@@ -68,8 +74,6 @@ public class DashboardFragment extends Fragment implements OnItemClickListener {
         View rootView = inflater.inflate(R.layout.list_view,
                 container, false);
         listView = (ListView) rootView.findViewById(R.id.list_view);
-
-
 
 
         return rootView;
@@ -96,7 +100,7 @@ public class DashboardFragment extends Fragment implements OnItemClickListener {
                 Fragment fragment = CreateNewEventFragment.newInstance();
                 FragmentManager fragmentManager = getActivity().getSupportFragmentManager();
                 fragmentManager.beginTransaction()
-                        .replace(R.id.content_frame, fragment).commit();
+                        .replace(R.id.content_frame, fragment).addToBackStack(null).commit();
                 break;
         }
         return super.onOptionsItemSelected(item);
@@ -129,17 +133,34 @@ public class DashboardFragment extends Fragment implements OnItemClickListener {
                     for(int i = 0;i < jsonArray.length(); i++){
                         JSONObject dashboardJSON = jsonArray.getJSONObject(i);
 
-                        String name = dashboardJSON.getString(TAG_NAME);
-                        String description = dashboardJSON.getString(TAG_DESCRIPTION);
-                        String game = dashboardJSON.getString(TAG_GAME);
-                        String url = "http://kenh14.vcmedia.vn/zoom/421_263/534992cb49/2015/10/15/avah-bf3f9.jpg";
-                        JSONArray locations = dashboardJSON.getJSONArray(TAG_LOCATION);
+                        String name = dashboardJSON.getString(DashboardModel.TAG_NAME);
+                        String description = dashboardJSON.getString(DashboardModel.TAG_DESCRIPTION);
+                        String category = dashboardJSON.getString(DashboardModel.TAG_CATEGORY);
+                        String url = dashboardJSON.getString(DashboardModel.TAG_IMAGE_URL);
+                        String date = dashboardJSON.getString(DashboardModel.TAG_DATE);
+                        String time = dashboardJSON.getString(DashboardModel.TAG_TIME);
+                        String address = dashboardJSON.getString(DashboardModel.TAG_ADDRESS);
+                        String location = dashboardJSON.getString(DashboardModel.TAG_LOCATION);
+                        String numPlayer = dashboardJSON.getString(DashboardModel.TAG_NUM_OF_PLAYER);
+                        String userEmail = dashboardJSON.getString(DashboardModel.TAG_USER_EMAIL);
+//                        String locations = dashboardJSON.getJSONArray(DashboardModel.TAG_LOCATION);
 
-                        DashboardModel dbModel = new DashboardModel(i, url, game, description);
+                        DashboardModel dbModel = new DashboardModel();
+                        dbModel.setName(name);
+                        dbModel.setmDescription(description);
+                        dbModel.setCategory(category);
+                        dbModel.setmImageURL(url);
+                        dbModel.setDate(date);
+                        dbModel.setTime(time);
+                        dbModel.setAddress(address);
+                        dbModel.setLocation(location);
+                        dbModel.setNumPlayer(numPlayer);
+                        dbModel.setUserEmail(userEmail);
+
                         list.add(dbModel);
                     }
                 }catch (JSONException ex){
-
+                    Log.d("Exception ittus",ex.getMessage());
                 }
             }
             return list;
@@ -149,8 +170,7 @@ public class DashboardFragment extends Fragment implements OnItemClickListener {
          protected void onPostExecute(ArrayList<DashboardModel> dashboardModels) {
              if (pDialog.isShowing())
                  pDialog.dismiss();
-             mGoogleCardsAdapter = new GoogleCardsTravelAdapter(getActivity(),
-                     dashboardModels);
+             mGoogleCardsAdapter = new GoogleCardsTravelAdapter(getActivity(), dashboardModels, getActivity().getSupportFragmentManager());
              SwingBottomInAnimationAdapter swingBottomInAnimationAdapter = new SwingBottomInAnimationAdapter(
                      new SwipeDismissAdapter(mGoogleCardsAdapter, (OnDismissCallback) getActivity()));
              swingBottomInAnimationAdapter.setAbsListView(listView);

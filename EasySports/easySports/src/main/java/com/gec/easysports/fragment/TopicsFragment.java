@@ -14,6 +14,9 @@ import android.widget.ListView;
 import com.gec.easysports.R;
 import com.gec.easysports.adapter.ImageGalleryCategoryAdapter;
 import com.gec.easysports.util.DummyContent;
+import com.parse.ParseInstallation;
+
+import java.util.List;
 
 public class TopicsFragment extends Fragment implements OnItemClickListener {
 	private ListView mListView;
@@ -35,8 +38,9 @@ public class TopicsFragment extends Fragment implements OnItemClickListener {
 		View rootView = inflater.inflate(R.layout.list_view, container, false);
 		mListView = (ListView) rootView.findViewById(R.id.list_view);
 
+		List<String> subscribedChannels = ParseInstallation.getCurrentInstallation().getList("channels");
 		BaseAdapter adapter = new ImageGalleryCategoryAdapter(getActivity(),
-				DummyContent.getImageGalleryMusicCategories(), true);
+				DummyContent.getImageGalleryMusicCategories(subscribedChannels), true);
 
 		mListView.setAdapter(adapter);
 		return rootView;

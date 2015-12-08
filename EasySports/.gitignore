@@ -4,3 +4,4 @@
 /.idea/libraries
 .DS_Store
 /build
+/easySports/src/res/values/settings.xml

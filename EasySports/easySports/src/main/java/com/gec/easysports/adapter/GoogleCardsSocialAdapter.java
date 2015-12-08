@@ -1,7 +1,5 @@
 package com.gec.easysports.adapter;
 
-import java.util.List;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,6 +12,8 @@ import android.widget.TextView;
 import com.gec.easysports.R;
 import com.gec.easysports.model.DummyModel;
 import com.gec.easysports.util.ImageUtil;
+
+import java.util.List;
 
 public class GoogleCardsSocialAdapter extends ArrayAdapter<DummyModel>
 		implements OnClickListener {

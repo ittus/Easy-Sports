@@ -14,6 +14,7 @@ public class DrawerItem {
 	public static final int DRAWER_ITEM_TAG_PROFILE = 11;
 	public static final int DRAWER_ITEM_TAG_TOPICS = 12;
 	public static final int DRAWER_ITEM_TAG_SCHEDULED = 13;
+	public static final int DRAWER_ITEM_TAG_LOGOUT = 14;
 	
 	public DrawerItem(int icon, int title, int tag) {
 		this.icon = icon;

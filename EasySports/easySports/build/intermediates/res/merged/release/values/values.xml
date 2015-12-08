@@ -1,6 +1,142 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <integer-array name="blood">
+        <item>@color/blood_darker</item>
+        <item>@color/blood_dark</item>
+        <item>@color/blood_primary</item>
+        <item>@color/blood_light</item>
+    </integer-array>
+    <integer-array name="blossom">
+        <item>@color/blossom_darker</item>
+        <item>@color/blossom_dark</item>
+        <item>@color/blossom_primary</item>
+        <item>@color/blossom_light</item>
+    </integer-array>
+    <integer-array name="candy">
+        <item>@color/candy_darker</item>
+        <item>@color/candy_dark</item>
+        <item>@color/candy_primary</item>
+        <item>@color/candy_light</item>
+    </integer-array>
+    <string-array name="category_array">
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Table Tennis</item>
+    </string-array>
+    <integer-array name="dark">
+        <item>@color/dark_darker</item>
+        <item>@color/dark_dark</item>
+        <item>@color/dark_primary</item>
+        <item>@color/dark_light</item>
+    </integer-array>
+    <integer-array name="deep">
+        <item>@color/deep_darker</item>
+        <item>@color/deep_dark</item>
+        <item>@color/deep_primary</item>
+        <item>@color/deep_light</item>
+    </integer-array>
+    <integer-array name="grape">
+        <item>@color/grape_darker</item>
+        <item>@color/grape_dark</item>
+        <item>@color/grape_primary</item>
+        <item>@color/grape_light</item>
+    </integer-array>
+    <integer-array name="grass">
+        <item>@color/grass_darker</item>
+        <item>@color/grass_dark</item>
+        <item>@color/grass_primary</item>
+        <item>@color/grass_light</item>
+    </integer-array>
+    <string-array name="listValues">
+        <item>2 km</item>
+        <item>5 km</item>
+        <item>7 km</item>
+        <item>10 km</item>
+    </string-array>
+    <integer-array name="orange">
+        <item>@color/orange_darker</item>
+        <item>@color/orange_dark</item>
+        <item>@color/orange_primary</item>
+        <item>@color/orange_light</item>
+    </integer-array>
+    <integer-array name="sand">
+        <item>@color/sand_darker</item>
+        <item>@color/sand_dark</item>
+        <item>@color/sand_primary</item>
+        <item>@color/sand_light</item>
+    </integer-array>
+    <integer-array name="sea">
+        <item>@color/sea_darker</item>
+        <item>@color/sea_dark</item>
+        <item>@color/sea_primary</item>
+        <item>@color/sea_light</item>
+    </integer-array>
+    <integer-array name="sky">
+        <item>@color/sky_darker</item>
+        <item>@color/sky_dark</item>
+        <item>@color/sky_primary</item>
+        <item>@color/sky_light</item>
+    </integer-array>
+    <integer-array name="snow">
+        <item>@color/snow_darker</item>
+        <item>@color/snow_dark</item>
+        <item>@color/snow_primary</item>
+        <item>@color/snow_light</item>
+    </integer-array>
+    <string-array name="stadium_array_1">
+        <item>Bedok Stadium</item>
+        <item>Bishan Stadium</item>
+        <item>Bukit Gombak Stadium</item>
+        <item>Choa Chu Kang Stadium</item>
+        <item>Clementi Stadium</item>
+        <item>Hougang Stadium</item>
+    </string-array>
+    <string-array name="stadium_array_2">
+        <item>Jalan Besar Stadium</item>
+        <item>Jurong Stadium</item>
+        <item>Jurong East Stadium</item>
+        <item>Marina Bay Floating Platform</item>
+        <item>Jurong West Stadium</item>
+        <item>National Stadium</item>
+    </string-array>
+    <string-array name="stadium_array_3">
+        <item>Queenstown Stadium</item>
+        <item>School of Physical Education Stadium</item>
+        <item>Serangoon Stadium</item>
+        <item>Singapore Indoor Stadium</item>
+        <item>Tampines Stadium</item>
+        <item>Toa Payoh Stadium</item>
+    </string-array>
+    <string-array name="stadium_array_4">
+        <item>Woodlands Stadium</item>
+        <item>Yio Chu Kang Stadium</item>
+        <item>Serangoon Stadium</item>
+        <item>SYishun Stadium</item>
+        <item>Tampines Stadium</item>
+        <item>Toa Payoh Stadium</item>
+    </string-array>
     <attr format="reference" name="drawerArrowStyle"/>
+    <attr format="dimension" name="fl_borderWidth"/>
+    <attr format="dimension" name="fl_cornerRadius"/>
+    <attr format="dimension" name="fl_dotMargin"/>
+    <attr format="string" name="fl_fontExtension"/>
+    <attr format="string" name="fl_fontFamily"/>
+    <attr format="string" name="fl_fontWeight"/>
+    <attr format="dimension" name="fl_size"/>
+    <attr format="integer" name="fl_textAppearance">
+        <enum name="fl_none" value="0"/>
+        <enum name="fl_dark" value="1"/>
+        <enum name="fl_light" value="2"/>
+    </attr>
+    <attr format="reference" name="fl_theme"/>
+    <attr format="integer" name="fl_touchEffect">
+        <enum name="fl_none" value="0"/>
+        <enum name="fl_ease" value="1"/>
+        <enum name="fl_ripple" value="2"/>
+    </attr>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
     <attr name="siArrowPosition">
@@ -38,6 +174,14 @@
     <color name="background_floating_material_light">#ffeeeeee</color>
     <color name="background_material_dark">#ff303030</color>
     <color name="background_material_light">#ffeeeeee</color>
+    <color name="blood_dark">#a63124</color>
+    <color name="blood_darker">#732219</color>
+    <color name="blood_light">#f2b6ae</color>
+    <color name="blood_primary">#d94130</color>
+    <color name="blossom_dark">#b57795</color>
+    <color name="blossom_darker">#8f5e76</color>
+    <color name="blossom_light">#e8d1dc</color>
+    <color name="blossom_primary">#e898bf</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
@@ -46,6 +190,10 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
+    <color name="candy_dark">#bf505a</color>
+    <color name="candy_darker">#80363c</color>
+    <color name="candy_light">#f5c4c8</color>
+    <color name="candy_primary">#f56773</color>
     <color name="com_facebook_blue">#3B5998</color>
     <color name="com_facebook_button_background_color">#415dae</color>
     <color name="com_facebook_button_background_color_disabled">#bdc1c9</color>
@@ -59,6 +207,20 @@
     <color name="com_facebook_likeboxcountview_text_color">#6a7180</color>
     <color name="com_facebook_likeview_text_color">#6a7180</color>
     <color name="com_facebook_share_button_text_color">#FFFFFF</color>
+    <color name="com_parse_ui_facebook_login_button">#3B5998</color>
+    <color name="com_parse_ui_facebook_login_button_focus">#304F8B</color>
+    <color name="com_parse_ui_facebook_login_button_push">#2E4677</color>
+    <color name="com_parse_ui_parse_login_button">#40CCCCCC</color>
+    <color name="com_parse_ui_parse_login_button_focus">#35CCCCCC</color>
+    <color name="com_parse_ui_parse_login_button_push">#30CCCCCC</color>
+    <color name="com_parse_ui_parse_login_display_text">@android:color/white</color>
+    <color name="com_parse_ui_parse_login_help_button_label">#E0E0E0</color>
+    <color name="com_parse_ui_parse_login_help_button_label_focus">#CCCCCC</color>
+    <color name="com_parse_ui_parse_login_help_button_label_push">#AAAAAA</color>
+    <color name="com_parse_ui_parse_login_text_hint">#AAAAAA</color>
+    <color name="com_parse_ui_twitter_login_button">#2DAAE2</color>
+    <color name="com_parse_ui_twitter_login_button_focus">#2788BE</color>
+    <color name="com_parse_ui_twitter_login_button_push">#2588B5</color>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_signin_btn_dark_text_default">@android:color/white</color>
     <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
@@ -77,11 +239,27 @@
     <color name="cpb_red">#ffff4444</color>
     <color name="cpb_red_dark">#ffcd3a3a</color>
     <color name="cpb_white">@android:color/white</color>
+    <color name="dark_dark">#202020</color>
+    <color name="dark_darker">#050505</color>
+    <color name="dark_light">#a3a3a3</color>
+    <color name="dark_primary">#454545</color>
+    <color name="deep_dark">#2d3845</color>
+    <color name="deep_darker">#232b35</color>
+    <color name="deep_light">#c7dbf4</color>
+    <color name="deep_primary">#2d3845</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
     <color name="divider_color">@color/main_color_500</color>
+    <color name="grape_dark">#4f456b</color>
+    <color name="grape_darker">#362f4a</color>
+    <color name="grape_light">#b1a2db</color>
+    <color name="grape_primary">#695b8e</color>
+    <color name="grass_dark">#1e7d5b</color>
+    <color name="grass_darker">#124c38</color>
+    <color name="grass_light">#a8e3ce</color>
+    <color name="grass_primary">#2ab081</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
@@ -408,6 +586,10 @@
     <color name="mdtp_red_focused">@color/mdtp_accent_color_dark</color>
     <color name="mdtp_transparent_black">#7f000000</color>
     <color name="mdtp_white">#ffffff</color>
+    <color name="orange_dark">#cc5d35</color>
+    <color name="orange_darker">#994628</color>
+    <color name="orange_light">#ffbfa8</color>
+    <color name="orange_primary">#ff7342</color>
     <color name="primary_dark_material_dark">#ff000000</color>
     <color name="primary_dark_material_light">#ff757575</color>
     <color name="primary_material_dark">#ff212121</color>
@@ -418,10 +600,26 @@
     <color name="primary_text_disabled_material_light">#39000000</color>
     <color name="ripple_material_dark">#40ffffff</color>
     <color name="ripple_material_light">#40000000</color>
+    <color name="sand_dark">#d4a14a</color>
+    <color name="sand_darker">#ad843d</color>
+    <color name="sand_light">#fae8c8</color>
+    <color name="sand_primary">#fbbf58</color>
+    <color name="sea_dark">#1c52a2</color>
+    <color name="sea_darker">#1a3b6c</color>
+    <color name="sea_light">#d5e3f7</color>
+    <color name="sea_primary">#2d72d9</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
+    <color name="sky_dark">#0e8b9e</color>
+    <color name="sky_darker">#0b6978</color>
+    <color name="sky_light">#b9e4eb</color>
+    <color name="sky_primary">#13b7d2</color>
+    <color name="snow_dark">#dddddd</color>
+    <color name="snow_darker">#c8c8c8</color>
+    <color name="snow_light">#fafafa</color>
+    <color name="snow_primary">#e8e8e8</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
@@ -481,6 +679,14 @@
     <declare-styleable name="com_facebook_like_view"><attr format="color" name="com_facebook_foreground_color"/><attr format="string" name="com_facebook_object_id"/><attr name="com_facebook_object_type"><enum name="unknown" value="0"/><enum name="open_graph" value="1"/><enum name="page" value="2"/></attr><attr name="com_facebook_style"><enum name="standard" value="0"/><enum name="button" value="1"/><enum name="box_count" value="2"/></attr><attr name="com_facebook_auxiliary_view_position"><enum name="bottom" value="0"/><enum name="inline" value="1"/><enum name="top" value="2"/></attr><attr name="com_facebook_horizontal_alignment"><enum name="center" value="0"/><enum name="left" value="1"/><enum name="right" value="2"/></attr></declare-styleable>
     <declare-styleable name="com_facebook_login_view"><attr format="boolean" name="com_facebook_confirm_logout"/><attr format="string" name="com_facebook_login_text"/><attr format="string" name="com_facebook_logout_text"/><attr name="com_facebook_tooltip_mode"><enum name="automatic" value="0"/><enum name="display_always" value="1"/><enum name="never_display" value="2"/></attr></declare-styleable>
     <declare-styleable name="com_facebook_profile_picture_view"><attr name="com_facebook_preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="com_facebook_is_cropped"/></declare-styleable>
+    <declare-styleable name="fl_FlatAutoCompleteTextView"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_textAppearance"/><attr name="fl_cornerRadius"/><attr name="fl_borderWidth"/><attr format="integer" name="fl_autoFieldStyle"><enum name="flat" value="0"/><enum name="box" value="1"/><enum name="transparent" value="2"/></attr></declare-styleable>
+    <declare-styleable name="fl_FlatButton"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_textAppearance"/><attr name="fl_cornerRadius"/><attr name="fl_touchEffect"/><attr format="dimension" name="fl_blockButtonEffectHeight"/></declare-styleable>
+    <declare-styleable name="fl_FlatCheckBox"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_cornerRadius"/><attr name="fl_size"/><attr name="fl_dotMargin"/></declare-styleable>
+    <declare-styleable name="fl_FlatEditText"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_textAppearance"/><attr name="fl_cornerRadius"/><attr name="fl_borderWidth"/><attr format="integer" name="fl_fieldStyle"><enum name="fl_flat" value="0"/><enum name="fl_box" value="1"/><enum name="fl_transparent" value="2"/></attr></declare-styleable>
+    <declare-styleable name="fl_FlatRadioButton"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_borderWidth"/><attr name="fl_size"/><attr name="fl_dotMargin"/></declare-styleable>
+    <declare-styleable name="fl_FlatSeekBar"><attr name="fl_theme"/><attr name="fl_size"/></declare-styleable>
+    <declare-styleable name="fl_FlatTextView"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_cornerRadius"/><attr name="fl_borderWidth"/><attr format="integer" name="fl_textColor"><enum name="fl_darker" value="0"/><enum name="fl_dark" value="1"/><enum name="fl_main" value="2"/><enum name="fl_light" value="3"/></attr><attr format="integer" name="fl_backgroundColor"><enum name="fl_darker" value="0"/><enum name="fl_dark" value="1"/><enum name="fl_main" value="2"/><enum name="fl_light" value="3"/></attr><attr format="color" name="fl_customBackgroundColor"/></declare-styleable>
+    <declare-styleable name="fl_FlatToggleButton"><attr name="fl_theme"/><attr name="fl_cornerRadius"/><attr format="dimension" name="fl_space"/></declare-styleable>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
     <dimen name="abc_action_bar_default_padding_material">4dp</dimen>
     <dimen name="abc_action_bar_icon_vertical_padding_material">16dp</dimen>
@@ -537,6 +743,13 @@
     <dimen name="com_facebook_share_button_padding_top">12dp</dimen>
     <dimen name="com_facebook_share_button_text_size">16.0sp</dimen>
     <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
+    <dimen name="com_parse_ui_horizontal_margin">16dp</dimen>
+    <dimen name="com_parse_ui_large_vertical_spacing">24dp</dimen>
+    <dimen name="com_parse_ui_small_horizontal_spacing">8dp</dimen>
+    <dimen name="com_parse_ui_small_vertical_spacing">8dp</dimen>
+    <dimen name="com_parse_ui_vertical_margin">16dp</dimen>
+    <dimen name="com_parse_ui_vertical_spacing">16dp</dimen>
+    <dimen name="com_parse_ui_xlarge_vertical_spacing">36dp</dimen>
     <dimen name="cpb_stroke_width">4dp</dimen>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -588,6 +801,8 @@
     <dimen name="mdtp_time_picker_height">300dip</dimen>
     <dimen name="mdtp_year_label_height">64dp</dimen>
     <dimen name="mdtp_year_label_text_size">22dp</dimen>
+    <dimen name="preference_fragment_padding_bottom">0dp</dimen>
+    <dimen name="preference_fragment_padding_side">16dp</dimen>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
@@ -600,6 +815,11 @@
     <item name="up" type="id"/>
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="google_play_services_version">7095000</integer>
+    <integer name="preference_fragment_scrollbarStyle">0x02000000</integer>
+    <plurals name="com_parse_ui_password_too_short_toast">
+        <item quantity="one">Password must be at least %d character long</item>
+        <item quantity="other">Password must be at least %d characters long</item>
+    </plurals>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -619,7 +839,8 @@
     <string name="accept">Accept</string>
     <string name="action_create">New</string>
     <string name="all_set_by_google_instructions_of_material_design">All set by Google instructions of Material Design</string>
-    <string name="app_name">EasySports</string>
+    <string name="app_name">EasyPlay</string>
+    <string name="back_button_label">Back</string>
     <string name="cd_background_image">background image</string>
     <string name="cd_main_image">main image</string>
     <string name="city">City</string>
@@ -639,6 +860,56 @@
     <string name="com_facebook_send_button_text">Send</string>
     <string name="com_facebook_share_button_text">Share</string>
     <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
+    <string name="com_parse_ui_confirm_password_input_hint">Re-enter password</string>
+    <string name="com_parse_ui_create_account_button_label">Create account</string>
+    <string name="com_parse_ui_email_input_hint">Email</string>
+    <string name="com_parse_ui_email_taken_toast">Email is already taken, please reset your password instead</string>
+    <string name="com_parse_ui_facebook_login_button_label">Log in with Facebook</string>
+    <string name="com_parse_ui_facebook_login_failed_toast">Facebook login failed</string>
+    <string name="com_parse_ui_forgot_password_button_label"><u>Forgot password</u></string>
+    <string name="com_parse_ui_invalid_email_toast">Email is invalid, please correct it and try again</string>
+    <string name="com_parse_ui_login_dispatch_user_logged_in">"User logged in, starting: "</string>
+    <string name="com_parse_ui_login_dispatch_user_not_logged_in">User not logged in, starting ParseLoginActivity</string>
+    <string name="com_parse_ui_login_help_email_input_hint">Email</string>
+    <string name="com_parse_ui_login_help_email_sent">Please check your email for instructions on how to access your account</string>
+    <string name="com_parse_ui_login_help_instructions">Enter your email to recover your password</string>
+    <string name="com_parse_ui_login_help_login_again_button_label">Back to Login</string>
+    <string name="com_parse_ui_login_help_submit_button_label">Submit</string>
+    <string name="com_parse_ui_login_help_submit_failed_unknown">Failed to request password reset, please try again</string>
+    <string name="com_parse_ui_login_warning_disabled_facebook_login">Layout missing Facebook login button, disabled Facebook login</string>
+    <string name="com_parse_ui_login_warning_disabled_twitter_login">Layout missing Twitter login button, disabled Twitter login</string>
+    <string name="com_parse_ui_login_warning_disabled_username_password_login">Disabled username/password login and signup because of missing layout elements</string>
+    <string name="com_parse_ui_login_warning_facebook_login_failed">"Facebook login failed, exception: "</string>
+    <string name="com_parse_ui_login_warning_facebook_login_user_update_failed">"Updating user object after Facebook login failed, exception: "</string>
+    <string name="com_parse_ui_login_warning_layout_missing_login_button">Layout missing login button</string>
+    <string name="com_parse_ui_login_warning_layout_missing_login_help_button">Layout missing login help button</string>
+    <string name="com_parse_ui_login_warning_layout_missing_password_field">Layout missing password field</string>
+    <string name="com_parse_ui_login_warning_layout_missing_signup_button">Layout missing signup button</string>
+    <string name="com_parse_ui_login_warning_layout_missing_username_field">Layout missing username field</string>
+    <string name="com_parse_ui_login_warning_parse_login_failed">"Parse username/password login failed, exception: "</string>
+    <string name="com_parse_ui_login_warning_parse_signup_failed">"Parse signup failed, exception: "</string>
+    <string name="com_parse_ui_login_warning_password_reset_failed">"Parse password reset failed, exception: "</string>
+    <string name="com_parse_ui_login_warning_twitter_login_failed">"Twitter login failed, exception: "</string>
+    <string name="com_parse_ui_login_warning_twitter_login_user_update_failed">"Updating user object after Twitter login failed, exception: "</string>
+    <string name="com_parse_ui_logo_content_description">Logo</string>
+    <string name="com_parse_ui_mismatch_confirm_password_toast">Passwords don\'t match, please try again</string>
+    <string name="com_parse_ui_name_input_hint">Name</string>
+    <string name="com_parse_ui_no_email_toast">Please enter your email</string>
+    <string name="com_parse_ui_no_name_toast">Please enter your name</string>
+    <string name="com_parse_ui_no_password_toast">Please enter your password</string>
+    <string name="com_parse_ui_no_username_toast">Please enter your username</string>
+    <string name="com_parse_ui_parse_login_button_label">Log in</string>
+    <string name="com_parse_ui_parse_login_failed_unknown_toast">Could not log in, please try again later</string>
+    <string name="com_parse_ui_parse_login_invalid_credentials_toast">The username and password you entered don\'t match</string>
+    <string name="com_parse_ui_parse_signup_button_label">Sign up</string>
+    <string name="com_parse_ui_password_input_hint">Password</string>
+    <string name="com_parse_ui_progress_dialog_text">Loading...</string>
+    <string name="com_parse_ui_reenter_password_toast">Please re-enter your password</string>
+    <string name="com_parse_ui_signup_failed_unknown_toast">Could not sign up, please try again later</string>
+    <string name="com_parse_ui_twitter_login_button_label">Log in with Twitter</string>
+    <string name="com_parse_ui_twitter_login_failed_toast">Twitter login failed</string>
+    <string name="com_parse_ui_username_input_hint">Username</string>
+    <string name="com_parse_ui_username_taken_toast">Username is already taken, please choose a different one</string>
     <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
     <string name="common_android_wear_update_text">This app won\'t run unless you update the Android Wear app.</string>
     <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
@@ -700,7 +971,8 @@ available. Please contact the developer for assistance.</string>
     <string name="drawer_title_git_hub">GitHub</string>
     <string name="drawer_title_instagram">Instagram</string>
     <string name="drawer_title_linked_in">LinkedIn</string>
-    <string name="drawer_title_profile">Profile</string>
+    <string name="drawer_title_logout">Logout</string>
+    <string name="drawer_title_profile">Settings</string>
     <string name="drawer_title_progress_bars">Progress Bars</string>
     <string name="drawer_title_scheduled">Scheduled</string>
     <string name="drawer_title_search_bars">Search Bars</string>
@@ -794,11 +1066,18 @@ available. Please contact the developer for assistance.</string>
     <string name="mdtp_year_picker_description">Year list</string>
     <string name="messenger_send_button_text">Send</string>
     <string name="new_york">New York</string>
-    <string name="number_of_images">%d image(s)</string>
+    <string name="next_button_label">Next</string>
+    <string name="number_of_images">%d subscriber(s)</string>
     <string name="password">Password</string>
+    <string name="pref_location">Set location</string>
+    <string name="pref_set_location">Set your location</string>
+    <string name="pref_user_name">Set username</string>
+    <string name="pref_user_name_summary">Set your username</string>
+    <string name="pref_user_profile">User Profile</string>
     <string name="raised">RAISED</string>
     <string name="register">REGISTER</string>
     <string name="skip">SKIP</string>
+    <string name="skip_button_label">Skip</string>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
     <string name="thicker_and_darker_version">Thicker and darker version of Material design</string>
@@ -1768,6 +2047,36 @@ available. Please contact the developer for assistance.</string>
     <style name="MessengerButtonText.White.Small">
     <item name="android:drawableLeft">@drawable/messenger_bubble_small_blue</item>
   </style>
+    <style name="ParseLoginUI"/>
+    <style name="ParseLoginUI.Button" parent="@android:style/Widget.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:background">
+            @drawable/com_parse_ui_parse_login_button_background_selector
+        </item>
+        <item name="android:textColor">@color/com_parse_ui_parse_login_display_text</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="ParseLoginUI.Button.ThirdPartyLogin" parent="ParseLoginUI.Button">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">24dp</item>
+    </style>
+    <style name="ParseLoginUI.EditText" parent="@android:style/Widget.EditText">
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ParseLoginUI.HelpButton" parent="@android:style/Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textColor">@color/com_parse_ui_parse_login_help_button_label_selector</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="ParseLoginUI.TextView" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@color/com_parse_ui_parse_login_display_text</item>
+        <item name="android:textSize">18sp</item>
+    </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
         <item name="buttonBarStyle">@android:style/ButtonBar</item>

@@ -521,4 +521,18 @@ input languages enabled.
         <attr name="siStrokeMiter" format="dimension" />
     </declare-styleable>
 
+    <string-array name="category_array">
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Table Tennis</item>
+    </string-array>
+    <string-array name="listValues">
+        <item>2 km</item>
+        <item>5 km</item>
+        <item>7 km</item>
+        <item>10 km</item>
+    </string-array>
 </resources>

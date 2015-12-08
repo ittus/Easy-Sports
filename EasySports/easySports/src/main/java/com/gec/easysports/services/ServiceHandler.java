@@ -8,8 +8,12 @@ import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.client.utils.URLEncodedUtils;
+import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.message.BasicHeader;
+import org.apache.http.protocol.HTTP;
 import org.apache.http.util.EntityUtils;
+import org.json.JSONObject;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
@@ -85,5 +89,24 @@ public class ServiceHandler {
 
         return response;
 
+    }
+
+    public String sendJsonPostRequest(String url,  JSONObject jobj){
+        String response = null;
+        try {
+
+            DefaultHttpClient httpclient = new DefaultHttpClient();
+            HttpPost httppostreq = new HttpPost(url);
+            StringEntity se = new StringEntity(jobj.toString());
+            se.setContentType("application/json;charset=UTF-8");
+            se.setContentEncoding(new BasicHeader(HTTP.CONTENT_TYPE, "application/json;charset=UTF-8"));
+            httppostreq.setEntity(se);
+            HttpResponse httpresponse = httpclient.execute(httppostreq);
+            response = EntityUtils.toString(httpresponse.getEntity());
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return response;
     }
 }

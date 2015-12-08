@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Preferences">
+        <Preference
+            android:key="prefLocation"
+            android:summary="@string/pref_set_location"
+            android:title="@string/pref_location" />
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/listValues"
+            android:entryValues="@array/listValues"
+            android:key="downloadType"
+            android:summary="Select distance to get notification"
+            android:title="Select distance" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Account">
+        <EditTextPreference
+            android:summary="Click to change your password"
+            android:title="Change password" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

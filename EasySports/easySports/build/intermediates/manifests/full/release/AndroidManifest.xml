@@ -8,11 +8,21 @@
         android:minSdkVersion="15"
         android:targetSdkVersion="21" />
 
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="com.gec.easysports.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.gec.easysports.permission.C2D_MESSAGE" />
 
     <application
+        android:name="com.gec.easysports.MyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -22,17 +32,13 @@
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.gec.easysports.ParallaxKenBurnsActivity"
-            android:theme="@style/AppTheme.Overlay" />
-        <activity android:name="com.gec.easysports.ParallaxActivity" />
-        <activity android:name="com.gec.easysports.ParallaxTravelActivity" />
-        <activity android:name="com.gec.easysports.ParallaxSocialActivity" />
-        <activity
-            android:name="com.gec.easysports.ImageGalleryCategoryActivity"
-            android:theme="@style/AppTheme.NoShadow" />
-        <activity
-            android:name="com.gec.easysports.ImageGallerySubcategoryActivity"
-            android:theme="@style/AppTheme.NoShadow" />
+            android:name="com.parse.ui.ParseLoginActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop" >
+            <meta-data
+                android:name="com.parse.ui.ParseLoginActivity.PARSE_LOGIN_ENABLED"
+                android:value="true" />
+        </activity>
         <activity
             android:name="com.gec.easysports.LogInPageActivity"
             android:screenOrientation="portrait" >
@@ -45,8 +51,16 @@
         <activity
             android:name="com.gec.easysports.RegisterPageActivity"
             android:screenOrientation="portrait" />
-        <activity android:name="com.gec.easysports.SplashScreensActivity" />
-        <activity android:name="com.gec.easysports.ListViewsActivity" />
+        <activity
+            android:name="com.gec.easysports.DetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gec.easysports.MySettingsActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.gec.easysports.MapActivity"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.facebook.FacebookActivity"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
@@ -59,6 +73,41 @@
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_api_key" />
+
+        <service android:name="com.parse.PushService" />
+
+        <receiver
+            android:name="com.gec.easysports.receiver.CustomReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="com.parse.push.intent.RECEIVE" />
+                <action android:name="com.parse.push.intent.DELETE" />
+                <action android:name="com.parse.push.intent.OPEN" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.parse.GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.gec.easysports" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.parse.GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.gec.easysports" />
+            </intent-filter>
+        </receiver>
+
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />

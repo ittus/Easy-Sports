@@ -1,2 +1,2 @@
-include ':stickyListHeaders'
+include ':stickyListHeaders', ':android-support-v4-preferencefragment-master'
 include ':easySports'

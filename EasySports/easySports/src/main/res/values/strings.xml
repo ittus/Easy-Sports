@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">EasySports</string>
+    <string name="app_name">EasyPlay</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
 
@@ -37,10 +37,11 @@
     <string name="drawer_title_search_bars">Search Bars</string>
 
 
-    <string name="drawer_title_profile">Profile</string>
+    <string name="drawer_title_profile">Settings</string>
     <string name="drawer_title_dashboard">Dashboard</string>
     <string name="drawer_title_topics">Topics</string>
     <string name="drawer_title_scheduled">Scheduled</string>
+    <string name="drawer_title_logout">Logout</string>
     <!-- <string name="drawer_title_dialogs">Dialogs</string> -->
 
     <string name="drawer_title_linked_in">LinkedIn</string>
@@ -111,7 +112,7 @@
     <string name="lorem_ipsum_short">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
     <string name="thiner_and_lighter_version">Thiner and lighter version of Material design</string>
     <string name="thicker_and_darker_version">Thicker and darker version of Material design</string>
-    <string name="number_of_images">%d image(s)</string>
+    <string name="number_of_images">%d subscriber(s)</string>
     <string name="new_york">New York</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
@@ -134,7 +135,14 @@
     <!-- For Update -->
     <string name="confirm_exit">Press Back button again to exit</string>
 
-    <string name="facebook_app_id">524166174431980</string>
+
     <string name="action_create">New</string>
-    <string name="google_api_key">AIzaSyDmFZVIdT6WyRAlSxnZyfAmjfIh-frTIbQ</string>
+
+
+    <string name="pref_user_profile">User Profile</string>
+    <string name="pref_user_name">Set username</string>
+    <string name="pref_user_name_summary">Set your username</string>
+
+    <string name="pref_location">Set location</string>
+    <string name="pref_set_location">Set your location</string>
 </resources>
