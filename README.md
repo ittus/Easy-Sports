@@ -1,5 +1,4 @@
-<snippet>
-  <content><![CDATA[
+
 # ${1:Easy Sport}
 
 An Android Application which let users find other to play sport together
@@ -31,5 +30,4 @@ Change Google Map API key, Parse API key and Facebook App API key in file /easyS
 ## Screenshots
 
 
-]]></content>
-</snippet>
+
