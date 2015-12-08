@@ -31,5 +31,5 @@ Change Google Map API key, Parse API key and Facebook App API key in file /easyS
 ## Screenshots
 
 
-
+]]></content>
 </snippet>
