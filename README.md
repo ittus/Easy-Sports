@@ -28,6 +28,6 @@ Change Google Map API key, Parse API key and Facebook App API key in file /easyS
 - Flat UI
 
 ## Screenshots
-
+![Alt text](/Easy-Sports/master/EasySports/device-2015-12-06-041751.png?raw=true "Choose Place")
 
 
